@@ -1,0 +1,10 @@
+Main Game Document
+
+-My game is going to be a third person platformer game. In which the main aim of the game is to try and collect a set amount
+of coins/gems to proceed to the next level.
+
+-The level(s) will be straight forward to navigate through.
+
+-Gems/coins will be scattered throughout the level which the player needs to collect to complete the level.
+
+-I will have some enemies in the level(s) which will hopefully add some difficulty to the game.

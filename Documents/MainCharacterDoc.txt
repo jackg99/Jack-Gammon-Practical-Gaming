@@ -1,0 +1,16 @@
+Main Character Document
+
+
+-My character will be viewed in the third person.
+
+-My character will be able to be moved at a given speed using the keys W(forward), A(left), S(backwards), D(right) 
+and the spacebar to jump.
+
+-I would also like to implement an attack move for the ninja using a mouse click, which would then attack in the 
+direction that the character is facing.
+
+-I want the camera to follow my character and be rotated around my character by using the mouse.
+
+-My character will be able to pick up "pick ups" such as coins and health.
+
+-My character will have a health counter/meter.
