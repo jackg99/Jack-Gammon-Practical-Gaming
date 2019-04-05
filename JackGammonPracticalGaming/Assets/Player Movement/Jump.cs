@@ -27,6 +27,7 @@ public class Jump : MonoBehaviour
 
             rb.AddForce(jump * jumpForce, ForceMode.Impulse);
             isGrounded = false;
+
         }
     }
 }
